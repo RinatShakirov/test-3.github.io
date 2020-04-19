@@ -714,13 +714,6 @@
           transform: scale(1.2);
 }
 
-.first-wrapper .content .content-cards-wrapper .cards-inner .card-item:hover {
-  bottom: 0;
-  -webkit-transform: scale(1.2);
-          transform: scale(1.2);
-  z-index: 100;
-}
-
 .first-wrapper .content .men-women-you {
   width: 100%;
   max-width: 1770px;
